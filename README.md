@@ -1,2 +1,2 @@
 # Tecqify
-Digital MArketting Website
+Digital Marketting Website
